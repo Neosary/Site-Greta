@@ -1,0 +1,17 @@
+.gris {
+    background-color: #F5F5F5;
+}
+
+.orange {
+    background-color: #D2AB99;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 1000px) {
+        header {
+            display: none;
+        }
+    }
